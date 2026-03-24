@@ -1,0 +1,206 @@
+nationality,Country,continent
+ZIM,Zimbabwe,Africa
+ZAM,Zambia,Africa
+YEM,Yemen,Asia
+VIN,Saint Vincent and the Grenadines,Americas
+VIE,Viet Nam,Asia
+VEN,"Venezuela, Bolivarian Republic of",Americas
+VAN,Vanuatu,Oceania
+UZB,Uzbekistan,Asia
+USA,United States,Americas
+URU,Uruguay,Americas
+UKR,Ukraine,Europe
+UGA,Uganda,Africa
+UAE,United Arab Emirates,Asia
+TUV,Tuvalu,Oceania
+TUR,Turkey,Asia
+TUN,Tunisia,Africa
+TTO,Trinidad and Tobago,Americas
+TPE,"Taiwan, Province of China",Asia
+TOG,Togo,Africa
+TLS,Timor-Leste,Asia
+TKM,Turkmenistan,Asia
+TJK,Tajikistan,Asia
+THA,Thailand,Asia
+TGA,Tonga,Oceania
+TAN,"Tanzania, United Republic of",Africa
+SYR,Syrian Arab Republic,Asia
+SWZ,Eswatini,Africa
+SWE,Sweden,Europe
+SVK,Slovakia,Europe
+SUR,Suriname,Americas
+SUI,Switzerland,Europe
+SUD,Sudan,Africa
+STP,Sao Tome and Principe,Africa
+SSD,South Sudan,Africa
+SRI,Sri Lanka,Asia
+SRB,Serbia,Europe
+SOM,Somalia,Africa
+SOL,Solomon Islands,Oceania
+SMR,San Marino,Europe
+SLO,Slovenia,Europe
+SLE,Sierra Leone,Africa
+SKN,Saint Kitts and Nevis,Americas
+SIN,Singapore,Asia
+SEY,Seychelles,Africa
+SEN,Senegal,Africa
+SAM,Samoa,Oceania
+RWA,Rwanda,Africa
+RUS,Russian Federation,Europe
+RSA,South Africa,Africa
+ROU,Romania,Europe
+QAT,Qatar,Asia
+PUR,Puerto Rico,Americas
+PRK,"Korea, Democratic People's Republic of",Asia
+POR,Portugal,Europe
+POL,Poland,Europe
+PNG,Papua New Guinea,Oceania
+PLW,Palau,Oceania
+PLE,"Palestine, State of",Asia
+PHI,Philippines,Asia
+PER,Peru,Americas
+PAR,Paraguay,Americas
+PAN,Panama,Americas
+PAK,Pakistan,Asia
+OMA,Oman,Asia
+NZL,New Zealand,Oceania
+NRU,Nauru,Oceania
+NOR,Norway,Europe
+NIG,Niger,Africa
+NGR,Nigeria,Africa
+NEP,Nepal,Asia
+NED,Netherlands,Europe
+NCA,Nicaragua,Americas
+NAM,Namibia,Africa
+MYA,Myanmar,Asia
+MTN,Mauritania,Africa
+MRI,Mauritius,Africa
+MOZ,Mozambique,Africa
+MON,Monaco,Europe
+MNE,Montenegro,Europe
+MLT,Malta,Europe
+MLI,Mali,Africa
+MKD,North Macedonia,Europe
+MHL,Marshall Islands,Oceania
+MGL,Mongolia,Asia
+MEX,Mexico,Americas
+MDV,Maldives,Asia
+MDA,"Moldova, Republic of",Europe
+MAW,Malawi,Africa
+MAS,Malaysia,Asia
+MAR,Morocco,Africa
+MAD,Madagascar,Africa
+LUX,Luxembourg,Europe
+LTU,Lithuania,Europe
+LIE,Liechtenstein,Europe
+LIB,Lebanon,Asia
+LES,Lesotho,Africa
+LCA,Saint Lucia,Americas
+LBR,Liberia,Africa
+LBA,Libya,Africa
+LAT,Latvia,Europe
+LAO,Lao People's Democratic Republic,Asia
+KSA,Saudi Arabia,Asia
+KOS,Kosovo,Europe
+KOR,"Korea, Republic of",Asia
+KIR,Kiribati,Oceania
+KGZ,Kyrgyzstan,Asia
+KEN,Kenya,Africa
+KAZ,Kazakhstan,Asia
+JPN,Japan,Asia
+JOR,Jordan,Asia
+JAM,Jamaica,Americas
+IVB,"Virgin Islands, British",Americas
+ITA,Italy,Europe
+ISV,"Virgin Islands, U.S.",Americas
+ISR,Israel,Asia
+ISL,Iceland,Europe
+IRQ,Iraq,Asia
+IRL,Ireland,Europe
+IRI,"Iran, Islamic Republic of",Asia
+IND,India,Asia
+INA,Indonesia,Asia
+HUN,Hungary,Europe
+HON,Honduras,Americas
+HKG,Hong Kong,Asia
+HAI,Haiti,Americas
+GUY,Guyana,Americas
+GUM,Guam,Oceania
+GUI,Guinea,Africa
+GUA,Guatemala,Americas
+GRN,Grenada,Americas
+GRE,Greece,Europe
+GHA,Ghana,Africa
+GER,Germany,Europe
+GEQ,Equatorial Guinea,Africa
+GEO,Georgia,Asia
+GBS,Guinea-Bissau,Africa
+GBR,United Kingdom,Europe
+GAM,Gambia,Africa
+GAB,Gabon,Africa
+FSM,"Micronesia, Federated States of",Oceania
+FRA,France,Europe
+FIN,Finland,Europe
+FIJ,Fiji,Oceania
+ETH,Ethiopia,Africa
+EST,Estonia,Europe
+ESP,Spain,Europe
+ESA,El Salvador,Americas
+ERI,Eritrea,Africa
+EGY,Egypt,Africa
+ECU,Ecuador,Americas
+DOM,Dominican Republic,Americas
+DMA,Dominica,Americas
+DJI,Djibouti,Africa
+DEN,Denmark,Europe
+CZE,Czechia,Europe
+CYP,Cyprus,Asia
+CUB,Cuba,Americas
+CRO,Croatia,Europe
+CRC,Costa Rica,Americas
+CPV,Cabo Verde,Africa
+COM,Comoros,Africa
+COL,Colombia,Americas
+COK,Cook Islands,Oceania
+COD,"Congo, The Democratic Republic of the",Africa
+CMR,Cameroon,Africa
+CIV,Côte d'Ivoire,Africa
+CHN,China,Asia
+CHI,Chile,Americas
+CHA,Chad,Africa
+CGO,Congo,Africa
+CAY,Cayman Islands,Americas
+CAN,Canada,Americas
+CAM,Cambodia,Asia
+CAF,Central African Republic,Africa
+BUR,Burkina Faso,Africa
+BUL,Bulgaria,Europe
+BRU,Brunei Darussalam,Asia
+BRN,Bahrain,Asia
+BRA,Brazil,Americas
+BOT,Botswana,Africa
+BOL,"Bolivia, Plurinational State of",Americas
+BLR,Belarus,Europe
+BIZ,Belize,Americas
+BIH,Bosnia and Herzegovina,Europe
+BHU,Bhutan,Asia
+BER,Bermuda,Americas
+BEN,Benin,Africa
+BEL,Belgium,Europe
+BDI,Burundi,Africa
+BAR,Barbados,Americas
+BAN,Bangladesh,Asia
+BAH,Bahamas,Americas
+AZE,Azerbaijan,Asia
+AUT,Austria,Europe
+AUS,Australia,Oceania
+ASA,American Samoa,Oceania
+ARU,Aruba,Americas
+ARM,Armenia,Asia
+ARG,Argentina,Americas
+ANT,Antigua and Barbuda,Americas
+ANG,Angola,Africa
+AND,Andorra,Europe
+ALG,Algeria,Africa
+ALB,Albania,Europe
+AFG,Afghanistan,Asia
